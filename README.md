@@ -1,6 +1,12 @@
 # Password-Generator
 A password tool that generates secure passwords in a variety of ways and copies them to the clipboard for 90 seconds.
 
+Minimum requirements:
+
+Windows 10 or Windows 11
+Administrator rights
+Architecture: x86 (32-bit) and/or x64 (64-bit)
+
 <img width="636" height="398" alt="2025-10-26 21_19_18-Password Generator" src="https://github.com/user-attachments/assets/5386bb1b-cf25-4fca-afad-f13aaf196d45" />
 <img width="636" height="398" alt="2025-10-26 21_19_37-Password Generator" src="https://github.com/user-attachments/assets/74c8b02a-cca8-417d-8d29-d14d7427b0ab" />
 <img width="636" height="398" alt="2025-10-26 21_20_20-Password Generator" src="https://github.com/user-attachments/assets/108f4623-74b4-452b-89c4-d3cbbb41552a" />
