@@ -32,4 +32,4 @@ No installation required! This is a portable application.
 
 ### Prerequisites
 * Windows 10 or 11
-* .NET 8.0 SDK (or later)
+* .NET 8.0 (or later)
